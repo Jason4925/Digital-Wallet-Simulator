@@ -100,6 +100,10 @@ python run.py --demo-mode
 3. Reset Stored Data
 python reset_data.py
 
+## 📄 Technical Documentation
+You can read the full technical documentation here:  
+[📄 View Technical Document](Digital_Wallet_Technical_Document.pdf)
+
 🚀 Future Enhancements (Optional Ideas)
 - GUI (Tkinter / Web)
 - Encrypted data storage
