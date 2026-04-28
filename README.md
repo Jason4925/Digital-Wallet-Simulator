@@ -96,6 +96,8 @@ digital_wallet/
 - Python 3.9+
 - No external libraries required (standard library only)
 
+---
+
 ## ▶️ How to Run
 
 ### 1. Clone the Repository
@@ -146,7 +148,9 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ## 👨‍💻 Author
 
 **Jeetesh Nehete**
+
 Built as a clean, modular, learning-oriented project with real-world payment system logic.
+
 ---
 
 ## ⭐ Support
