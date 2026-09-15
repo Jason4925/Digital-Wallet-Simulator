@@ -103,7 +103,7 @@ digital_wallet/
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Jason4925/Digital-Wallet-Simulator.git
-cd digital_wallet
+cd Digital-Wallet-Simulator/digital_wallet
 ```
 
 ### 2. Start Interactive Wallet
